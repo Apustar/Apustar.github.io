@@ -16,7 +16,7 @@ script:
 after_script:   # 最后执行的命令
   - cd ./public   
   - git init   
-  - git config user.name "ajustpu"   
+  - git config user.name "apustar"   
   - git config user.email "754324560@qq.com"   
   - git add .    
   - git commit -m "代码是自动部署的哈"   
